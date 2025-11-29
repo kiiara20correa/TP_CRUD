@@ -1,0 +1,4 @@
+INPUT FECHAS 
+En Windows abrí la Consola de comandos (CMD) o PowerShell.
+Podés buscar “cmd” o “PowerShell” en el menú inicio.
+Escribí el comando: pip install tkcalendar
